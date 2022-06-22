@@ -27,11 +27,12 @@ Detox tests:
 
 ---> iOS
 
+* Start a simulator (iPhone 13 Pro) and run the app on it
 * Build iOS tests: `detox build --configuration ios.sim.debug`
 * Run iOS detox tests: `detox test --configuration ios.sim.debug`
 
 ---> Android
 
-* Run an emulator (Pixel 4 API 30)
+* Start an emulator (Pixel 4 API 30) and run the app on it
 * Build Android tests: `detox build --configuration android.emu.debug`
 * Run Android detox tests: `detox test --configuration android.emu.debug`
