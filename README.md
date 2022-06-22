@@ -3,7 +3,7 @@
 ## INSTALLATION
 
 * run `git clone https://github.com/OmarBasem/TicTacToe`
-* run `cd Chalhoub && npm install`
+* run `cd TicTacToe && npm install`
 
 ### iOS
 * run `cd ios && pod install && cd ..`
