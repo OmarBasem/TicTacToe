@@ -1,0 +1,400 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing components rendering HomeScreen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#000000",
+      "flex": 1,
+      "paddingTop": 60,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginBottom": 40,
+        "width": 525,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 40,
+              "textAlign": "center",
+            },
+            Object {
+              "color": "rgb(239, 25, 27)",
+            },
+          ]
+        }
+      >
+        X
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignSelf": "center",
+              "height": 4,
+              "width": 60,
+            },
+            Object {
+              "backgroundColor": "rgb(239, 25, 27)",
+            },
+          ]
+        }
+      />
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 20,
+              "marginTop": 8,
+              "textAlign": "center",
+            },
+            Object {
+              "color": "rgb(239, 25, 27)",
+            },
+          ]
+        }
+      >
+        Player
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 40,
+        }
+      }
+    >
+      0
+       : 
+      0
+    </Text>
+    <View>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 40,
+              "textAlign": "center",
+            },
+            Object {
+              "color": "rgba(31, 237, 238, 0.5)",
+            },
+          ]
+        }
+      >
+        O
+      </Text>
+      <View
+        style={
+          Array [
+            Object {
+              "alignSelf": "center",
+              "height": 4,
+              "width": 60,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      />
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 20,
+              "marginTop": 8,
+              "textAlign": "center",
+            },
+            Object {
+              "color": "rgba(31, 237, 238, 0.5)",
+            },
+          ]
+        }
+      >
+        Player
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="00"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="01"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="02"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="10"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="11"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="12"
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="20"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="21"
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderColor": "#ffffff",
+          "borderWidth": 4,
+          "height": 225,
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 225,
+        }
+      }
+      testID="22"
+    />
+  </View>
+</View>
+`;
+
+exports[`Testing components rendering OTic button renders correctly 1`] = `
+<Text
+  style={
+    Object {
+      "bottom": 4,
+      "color": "rgb(31, 237, 238)",
+      "fontSize": 187.5,
+    }
+  }
+>
+  O
+</Text>
+`;
+
+exports[`Testing components rendering XTic renders correctly 1`] = `
+<Text
+  style={
+    Object {
+      "bottom": 4,
+      "color": "rgb(239, 25, 27)",
+      "fontSize": 187.5,
+    }
+  }
+>
+  X
+</Text>
+`;
