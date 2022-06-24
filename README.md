@@ -1,6 +1,11 @@
 # Tic-Tac-Toe React Native App
 
-## INSTALLATION
+## Install App
+
+* iOS: https://app.bitrise.io/artifact/133150725/p/74e646b014b6116afefe26e427407a5d
+* Android: https://app.bitrise.io/artifact/133150722/p/fe81b1a272bd819f8469dff0548c07fe
+
+## Local Installation
 
 * run `git clone https://github.com/OmarBasem/TicTacToe`
 * run `cd TicTacToe && npm install`
