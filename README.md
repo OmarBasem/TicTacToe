@@ -26,7 +26,7 @@
 Jest tests: run `npm test`
 
 
-Detox e2e tests:
+Detox end-to-end tests:
 
 * Make sure <a href="https://wix.github.io/Detox/docs/introduction/getting-started">Detox</a> is set up on your machine
 
